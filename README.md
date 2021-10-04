@@ -1,1 +1,4 @@
-# reptileprojectse
+# 爬虫项目
+
+研一爬虫项目，使用selenuim实现对百度贴吧的爬取
+
